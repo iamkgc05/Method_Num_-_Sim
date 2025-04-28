@@ -1,0 +1,17 @@
+Dev pour algebre matricielle
+
+-> Classe Vecteur :
+    fournir 1 methode __init__(self, ...)
+
+    Je sais faire sur les vecteurs :
+        - somme de 2 vecteurs : portée par "+"
+        - multiplication d'1 vecteur par un nombre : portée par "*"
+        - multpilication de 2 vecteurs : produits scalaire porté par "@".
+
+    Implémenter les méthodes : 
+        - __add__
+        -__mult__
+        -__matmul__
+    
+    + afficher : __str__ ou __repr__.
+    + detruire : __del__
